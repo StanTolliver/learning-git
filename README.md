@@ -1,3 +1,3 @@
 # learning-git
 
-THis repo was used to learn git from the command line tool via Amigoscode
+This repo was used to learn git from the command line tool via Amigoscode
